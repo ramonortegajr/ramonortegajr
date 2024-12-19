@@ -27,8 +27,8 @@
 <h2 align="center"> Languages-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postman,npm,bootstrap,html,css,vscode,androidstudio,github,figma,git,photoshop" />
-    <img src="https://skillicons.dev/icons?i=php,cs,dotnet,nodejs,javascript,express,c,mysql,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,npm,bootstrap,vscode,androidstudio,github,figma,git,photoshop" />
+    <img src="https://skillicons.dev/icons?i=php,cs,dotnet,html,css,nodejs,javascript,express,c,mysql,kotlin" /><br>
 </div>
 
 <br/>
