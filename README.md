@@ -3,7 +3,7 @@
 <h2 align="center">A passionate Software Developer / IT Specialist from Cebu</h2>
 
 <br/>
- 
+
 <div align="center"> 
   <a href="mailto:ramonortegajr1997@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -22,7 +22,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=postman,npm,bootstrap,html,css,vscode,androidstudio,github,figma,git,photoshop" />
-    <img src="https://skillicons.dev/icons?i=php,cs,dotnet,nodejs,javascript,express,c,java,mysql,python,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=php,cs,dotnet,nodejs,javascript,express,c,mysql,kotlin" /><br>
 </div>
 
 <br/>
@@ -39,6 +39,5 @@
 
 <br/><br/>
 
-<hr/>
 
 <br/>
