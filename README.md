@@ -1,6 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ramonortegajr.ramonortegajr" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=600&size=31&pause=1000&color=00F716&width=435&lines=%3C+Hi+I'm+Ramon+Ortega+Jr+%2F%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=impact&weight=900&size=50&pause=1000&color=00950D&width=435&lines=%3C+Hi+I'm+Ramon+Ortega+Jr+%2F%3E" alt="Typing SVG" /></a>
 
 <h2 align="center">A passionate Software Developer / IT Specialist from Cebu</h2>
 
