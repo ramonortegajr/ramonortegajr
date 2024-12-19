@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=impact&weight=900&size=30&pause=1000&color=ffff&width=435&lines=%3C+Hi+I'm+Ramon+Ortega+Jr+%2F%3E" alt="Typing SVG" /></a></h1> 
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=impact&weight=900&size=30&pause=1000&color=ffff&width=435&lines=%3C+Hi+I'm+Ramon+Ortega+Jr+%2F%3E" alt="Typing SVG" /></a> <img src="https://tenor.com/view/jjk-jujutsu-kaisen-yuji-turn-into-sukuna-sukuna-yuji-gif-3057999394860525910.gif" alt="A cool animation" width="200"></h1> 
 
 <h2 align="center">A passionate Software Developer / IT Specialist from Cebu</h2>
 
