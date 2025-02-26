@@ -6,7 +6,7 @@
 </div>
  <br>
 
-<h2 align="center">A passionate Software Developer / IT Specialist from Cebu</h2>
+<h2 align="center">A passionate Software Developer from Cebu</h2>
 
 <br/>
 
